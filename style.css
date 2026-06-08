@@ -14,7 +14,7 @@ header {
     display: grid;
 
     /* 2열 */
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 800px 800px;
 
     /* 카드 사이 간격 */
     gap: 100px;
