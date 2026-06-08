@@ -14,10 +14,10 @@ header {
     display: grid;
 
     /* 2열 */
-    grid-template-columns: 800px 800px;
+    grid-template-columns: 800px 600px;
 
     /* 카드 사이 간격 */
-    gap: 100px;
+    gap: 50px;
 
     max-width: 1700px;
     margin: 0 auto;
@@ -26,12 +26,12 @@ header {
 .project {
     background: white;
     padding: 100px;
-    border-radius: 10px;
+    border-radius: 20px;
 
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
-.project h2 {
+.project h3 {
     text-align: center;
 }
 
