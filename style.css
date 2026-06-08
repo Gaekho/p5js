@@ -38,6 +38,9 @@ header {
     text-align: center;
     text-decoration-line : underline;
 }
+.project p {
+    background-color: #f7d8f8;
+}
 
 .project iframe {
     width: 600px;
