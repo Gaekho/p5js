@@ -21,8 +21,8 @@ header {
     row-gap: 60px;
 
     max-width: 1700px;
-    /*margin: 0 auto;*/
-    margin-bottom: 20px;
+    margin: 0 auto;
+
 }
 
 .project {
@@ -47,3 +47,5 @@ header {
     height: 400px;
     border: 1px solid #000000;
 }
+
+
