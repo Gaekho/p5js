@@ -20,6 +20,8 @@ header {
     column-gap : 30px;
     row-gap: 60px;
 
+    justify-content: center;
+
     max-width: 1700px;
     margin: 0 auto;
 
